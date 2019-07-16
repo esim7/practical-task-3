@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\practicalTask3\practicalTask3\bin\Debug\practicalTask3.exe.config
+C:\Users\home\source\repos\practicalTask3\practicalTask3\bin\Debug\practicalTask3.exe
+C:\Users\home\source\repos\practicalTask3\practicalTask3\bin\Debug\practicalTask3.pdb
+C:\Users\home\source\repos\practicalTask3\practicalTask3\obj\Debug\practicalTask3.csprojAssemblyReference.cache
+C:\Users\home\source\repos\practicalTask3\practicalTask3\obj\Debug\practicalTask3.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\practicalTask3\practicalTask3\obj\Debug\practicalTask3.exe
+C:\Users\home\source\repos\practicalTask3\practicalTask3\obj\Debug\practicalTask3.pdb
